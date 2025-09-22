@@ -1,0 +1,158 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": "",
+      "Image Occlusion": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text",
+      "Image Occlusion": "Occlusion"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "CommonlyUsedNote": "",
+      "NoteForClass": "",
+      "CommonlyUsedNote/Programming": "",
+      "CommonlyUsedNote/Tool": "",
+      "NoteForClass/MissingSemester": "",
+      "CommonlyUsedNote/Programming/Debug": "",
+      "CommonlyUsedNote/Programming/DevelopmentPhilosophy": "",
+      "CommonlyUsedNote/Programming/Language": "",
+      "CommonlyUsedNote/Tool/Clash": "",
+      "CommonlyUsedNote/Tool/Git": "",
+      "CommonlyUsedNote/Tool/LInux": "",
+      "CommonlyUsedNote/Tool/VimNote": "",
+      "CommonlyUsedNote/Tool/Vscode": "",
+      "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image": "",
+      "CommonlyUsedNote/Programming/Language/python": "",
+      "CommonlyUsedNote/Tool/LInux/Conda": "",
+      "CommonlyUsedNote/Tool/LInux/MyConfig": "",
+      "CommonlyUsedNote/Tool/LInux/ssh": "",
+      "CommonlyUsedNote/Tool/LInux/Shell": "",
+      "CommonlyUsedNote/Tool/VimNote/img": "",
+      "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama": "",
+      "CommonlyUsedNote/Tool/LInux/MyConfig/img": "",
+      "CommonlyUsedNote/Tool/LInux/ssh/img": "",
+      "CommonlyUsedNote/Tool/LInux/Shell/img": "",
+      "CommonlyUsedNote/Tool/Clash/img": ""
+    },
+    "FOLDER_TAGS": {
+      "CommonlyUsedNote": "",
+      "NoteForClass": "",
+      "CommonlyUsedNote/Programming": "",
+      "CommonlyUsedNote/Tool": "",
+      "NoteForClass/MissingSemester": "",
+      "CommonlyUsedNote/Programming/Debug": "",
+      "CommonlyUsedNote/Programming/DevelopmentPhilosophy": "",
+      "CommonlyUsedNote/Programming/Language": "",
+      "CommonlyUsedNote/Tool/Clash": "",
+      "CommonlyUsedNote/Tool/Git": "",
+      "CommonlyUsedNote/Tool/LInux": "",
+      "CommonlyUsedNote/Tool/VimNote": "",
+      "CommonlyUsedNote/Tool/Vscode": "",
+      "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image": "",
+      "CommonlyUsedNote/Programming/Language/python": "",
+      "CommonlyUsedNote/Tool/LInux/Conda": "",
+      "CommonlyUsedNote/Tool/LInux/MyConfig": "",
+      "CommonlyUsedNote/Tool/LInux/ssh": "",
+      "CommonlyUsedNote/Tool/LInux/Shell": "",
+      "CommonlyUsedNote/Tool/VimNote/img": "",
+      "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama": "",
+      "CommonlyUsedNote/Tool/LInux/MyConfig/img": "",
+      "CommonlyUsedNote/Tool/LInux/ssh/img": "",
+      "CommonlyUsedNote/Tool/LInux/Shell/img": "",
+      "CommonlyUsedNote/Tool/Clash/img": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "NoteForClass/MissingSemester/Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "README.md": "6bc695013b57e652ab1d6ab29e1a9867",
+    "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md": "e0b2f342269611910448d03d4edc4057",
+    "CommonlyUsedNote/Tool/VimNote/VimCommands.md": "04e6fd8660326ff164874b4d58685f2b",
+    "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md": "989aec41e234f60e9ff54219d052d8e5",
+    "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md": "d36bcb2084c6cca31d75c12dddb02363",
+    "CommonlyUsedNote/Tool/VimNote/regex.md": "1acee843f7d9bbf728649ad689972633",
+    "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md": "57a5cc40d2d25709ac08b5130bcc29c5",
+    "CommonlyUsedNote/Tool/VimNote/differenceInRegex.md": "2d59af649feae28dc79e764ee018d299",
+    "CommonlyUsedNote/Tool/LInux/Shell/Syntax.md": "c2b4513e9ece5385fbb4c7ef9c073610",
+    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md": "989ead20303c9f7915393dda61030b76",
+    "CommonlyUsedNote/Tool/LInux/ssh/ssh.md": "afef814d7947604e7fcba78232ee87ef",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/UsefulPluginUsage.md": "4431b4128dd96994c4aa899287d5114e",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md": "a8036a8ed7d7a8eb39cab1c7ae239b45",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/VimCursonInWSL.md": "92428d180a7552e67b2d251ee0ac1fae",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md": "e0416fec31212e13c092596a569d0800",
+    "CommonlyUsedNote/Tool/LInux/Conda/Conda.md": "2eaed9db2b643c8aa16ff4d4c24dd747",
+    "CommonlyUsedNote/Tool/LInux/Environment.md": "6d15dcf2b5bf3f452d1bce5d948ad4dc",
+    "CommonlyUsedNote/Tool/LInux/Basic.md": "832c3127ad7159b38850cef2c516ff7e",
+    "CommonlyUsedNote/Tool/Git/RemoteCommands.md": "b3529adcdeb586af9fdb7035483ecf0c",
+    "CommonlyUsedNote/Tool/Git/GitCommands.md": "c98b51eff16f566f17b93cfc6ca4b035",
+    "CommonlyUsedNote/Programming/Language/python/pythonNote.md": "976d58245ed5a4ad0ccf4128d9495419",
+    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/readme.md": "9a28119fe0271fbb33e1bb3853fca09d",
+    "CommonlyUsedNote/Programming/Language/Markdown.md": "32346b2a6613e8f66bfd8cc534074408",
+    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/SubtypePolymorphismVsHofs.md": "025f2ffc9b2e9453db62fc77546af254"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ]
+  }
+}

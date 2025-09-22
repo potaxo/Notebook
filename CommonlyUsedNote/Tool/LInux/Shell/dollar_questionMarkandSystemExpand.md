@@ -1,6 +1,4 @@
-This is a subtle but very good question — you’ve noticed that `?` behaves differently depending on how you touch it. Let’s peel the onion.
-
----
+#Linux #System 
 
 ### What `$?` actually is
 

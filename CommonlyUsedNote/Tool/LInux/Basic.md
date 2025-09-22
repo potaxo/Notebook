@@ -1,7 +1,3 @@
-# Basic
-
-
----
 ### Copy a file to a new place
 ### ✅ **Basic Syntax Using `cp` Command**
 

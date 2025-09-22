@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "234910cfd3c72fe2",
+        "id": "45cd90e26a9d7e64",
         "type": "tabs",
         "children": [
           {
-            "id": "ae02b1f73aa870a9",
+            "id": "c759012b1fb9e9d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CommonlyUsedNote/Tool/LInux/Environment.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Environment"
             }
           }
         ]
@@ -73,12 +83,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9a7c9b46c761ea7c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 205.49999618530273
   },
   "right": {
     "id": "5d086ea6e3d966d6",
@@ -94,17 +114,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "CommonlyUsedNote/Tool/LInux/Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Environment"
             }
           },
           {
@@ -155,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,56 +186,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "ae02b1f73aa870a9",
+  "active": "a31910b9fa22f2fb",
   "lastOpenFiles": [
-    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
-    "README.md",
-    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/readme.md",
-    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
-    "CommonlyUsedNote/README.md",
-    "CommonlyUsedNote/Tool/LInux/Shell/img/dollarquestion.png",
-    "CommonlyUsedNote/Tool/VimNote/img/Screenshot_20250713_164801.jpg",
-    "img/dollarquestion.png.md",
-    "img",
-    "CommonlyUsedNote/Programming/Debug/Debug.jpg",
-    "111111111111111111.base",
-    "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md",
-    "CommonlyUsedNote/Tool/Git/GitCommands.md",
-    "CommonlyUsedNote/Tool/Git/RemoteCommands.md",
-    "CommonlyUsedNote/Tool/Clash/Screenshot 2025-07-14 205936.png",
-    "CommonlyUsedNote/Tool/Clash/ClashNotes.jpg",
-    "Untitled.md",
-    "CommonlyUsedNote/Programming/Language/python/pythonNote.md",
-    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/SubtypePolymorphismVsHofs.md",
-    "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md",
-    "CommonlyUsedNote/Tool/Vscode/VscodeProblemSolving.jpg",
-    "CommonlyUsedNote/Tool/Vscode/VscodeInJava.jpg",
-    "CommonlyUsedNote/Tool/Vscode/KeyboredShortCut.jpg",
-    "CommonlyUsedNote/Tool/Vscode",
-    "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md",
-    "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md",
-    "CommonlyUsedNote/Tool/VimNote/regex.md",
-    "CommonlyUsedNote/Tool/VimNote/img",
-    "CommonlyUsedNote/Tool/VimNote/differenceInRegex.md",
-    "CommonlyUsedNote/Tool/VimNote/VimCommands.md",
-    "CommonlyUsedNote/Tool/VimNote",
+    "CommonlyUsedNote/Tool/LInux/Linux.md",
+    "Template/Normal.md",
+    "2025-09-22.md",
+    "CommonlyUsedNote/Tool/LInux/Basic.md",
+    "CommonlyUsedNote/Tool/LInux/Environment.md",
+    "Template/Untitled.base",
     "CommonlyUsedNote/Tool/LInux/ssh/ssh.md",
+    "CommonlyUsedNote/Tool/Git/RemoteCommands.md",
+    "Template",
+    "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md",
+    "CommonlyUsedNote/Tool/Vscode/KeyboredShortCut.jpg",
+    "CommonlyUsedNote/Tool/Clash/Clash.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
+    "CommonlyUsedNote/Tool/Vscode/VscodeInJava.jpg",
+    "NoteForClass/MissingSemester/Untitled.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
+    "README.md",
+    "Base.base",
+    "CommonlyUsedNote/Tool/LInux/Untitled.base",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "CommonlyUsedNote/Tool/Clash/img/ClashNotes.jpg",
+    "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md",
+    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Subtype Polymorphism Vs Hofs.md",
+    "CommonlyUsedNote/Programming/Debug/Debug.jpg",
+    "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
+    "CommonlyUsedNote/Tool/Clash/img/Turn off smart-homed name resolution.png",
+    "CommonlyUsedNote/Tool/Clash/img",
+    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
+    "Linux.md",
     "CommonlyUsedNote/Tool/LInux/ssh/img/remote.png",
     "CommonlyUsedNote/Tool/LInux/ssh/img/local.png",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/img/vc1.png",
+    "CommonlyUsedNote/Tool/LInux/Shell/img/dollarquestion.png",
+    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/readme.md",
+    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
+    "CommonlyUsedNote/Tool/VimNote/img/Screenshot_20250713_164801.jpg",
     "CommonlyUsedNote/Tool/LInux/ssh/img",
-    "CommonlyUsedNote/Tool/LInux/ssh",
-    "CommonlyUsedNote/Tool/LInux/Shell/img",
     "CommonlyUsedNote/Tool/LInux/Shell/Syntax.md",
-    "CommonlyUsedNote/Tool/LInux/Shell",
+    "CommonlyUsedNote/Tool/LInux/Shell/img",
     "CommonlyUsedNote/Tool/LInux/MyConfig/VimCursonInWSL.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/UsefulPluginUsage.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
-    "CommonlyUsedNote/Tool/LInux/Environment.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/img",
     "CommonlyUsedNote/Tool/LInux/Conda/Conda.md",
+    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled/Untitled.canvas"
