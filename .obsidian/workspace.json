@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45cd90e26a9d7e64",
+        "id": "009e3cba7bd4744a",
         "type": "tabs",
         "children": [
           {
-            "id": "c759012b1fb9e9d5",
+            "id": "bca746a855312a7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Tool/LInux/Environment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Environment"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +80,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CommonlyUsedNote/Tool/LInux/Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Environment"
+              "title": "Backlinks"
             }
           },
           {
@@ -191,18 +177,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a31910b9fa22f2fb",
+  "active": "bca746a855312a7e",
   "lastOpenFiles": [
+    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
+    "Base.base",
+    "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md",
+    "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md",
+    "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md",
+    "CommonlyUsedNote/Tool/VimNote/VimCommands.md",
+    "CommonlyUsedNote/Tool/LInux/Signals TerminalEmulator KeepProgramAliveInTheBackgroud.md",
     "CommonlyUsedNote/Tool/LInux/Linux.md",
     "Template/Normal.md",
     "2025-09-22.md",
     "CommonlyUsedNote/Tool/LInux/Basic.md",
-    "CommonlyUsedNote/Tool/LInux/Environment.md",
     "Template/Untitled.base",
     "CommonlyUsedNote/Tool/LInux/ssh/ssh.md",
     "CommonlyUsedNote/Tool/Git/RemoteCommands.md",
     "Template",
-    "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md",
     "CommonlyUsedNote/Tool/Vscode/KeyboredShortCut.jpg",
     "CommonlyUsedNote/Tool/Clash/Clash.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
@@ -210,7 +201,6 @@
     "NoteForClass/MissingSemester/Untitled.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
     "README.md",
-    "Base.base",
     "CommonlyUsedNote/Tool/LInux/Untitled.base",
     "Untitled 1.md",
     "Untitled 3.md",
@@ -222,7 +212,6 @@
     "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
     "CommonlyUsedNote/Tool/Clash/img/Turn off smart-homed name resolution.png",
     "CommonlyUsedNote/Tool/Clash/img",
-    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
     "Linux.md",
     "CommonlyUsedNote/Tool/LInux/ssh/img/remote.png",
     "CommonlyUsedNote/Tool/LInux/ssh/img/local.png",
@@ -232,12 +221,8 @@
     "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
     "CommonlyUsedNote/Tool/VimNote/img/Screenshot_20250713_164801.jpg",
     "CommonlyUsedNote/Tool/LInux/ssh/img",
-    "CommonlyUsedNote/Tool/LInux/Shell/Syntax.md",
     "CommonlyUsedNote/Tool/LInux/Shell/img",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/VimCursonInWSL.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/UsefulPluginUsage.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/img",
-    "CommonlyUsedNote/Tool/LInux/Conda/Conda.md",
     "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama",
     "Untitled.canvas",
     "Untitled 1.canvas",

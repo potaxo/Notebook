@@ -1,5 +1,3 @@
-# 📝 Summary of Key Ideas
-
 ### **Signals (Ctrl+C, Ctrl+, Ctrl+Z, etc.)**
 
 * **Ctrl+C → SIGINT**: Interrupt signal. Politely asks a process to stop. Programs can catch or ignore it.
@@ -48,3 +46,14 @@ Or you can start a command directly in the background by appending `&` at the en
 ```bash
 your_command &
 ```
+
+## Keep Program Alive 
+This technique often used the in [[Server]]
+```bash
+nohup your_command &
+```
+
+---
+Relevant Link: [[Linux]]
+Date: 2025-09-22 
+Time: 23:37

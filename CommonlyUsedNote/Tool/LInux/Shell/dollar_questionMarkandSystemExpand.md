@@ -1,5 +1,3 @@
-#Linux #System 
-
 ### What `$?` actually is
 
 `$?` is **not output from the last command**.

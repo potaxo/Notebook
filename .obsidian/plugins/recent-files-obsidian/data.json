@@ -1,0 +1,44 @@
+{
+  "recentFiles": [
+    {
+      "basename": "dollar_questionMarkandSystemExpand",
+      "path": "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md"
+    },
+    {
+      "basename": "Base",
+      "path": "Base.base"
+    },
+    {
+      "basename": "python_env_in_vscode",
+      "path": "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md"
+    },
+    {
+      "basename": "regexGreedyFeature",
+      "path": "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md"
+    },
+    {
+      "basename": "registerAndHistoryinVim",
+      "path": "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md"
+    },
+    {
+      "basename": "VimCommands",
+      "path": "CommonlyUsedNote/Tool/VimNote/VimCommands.md"
+    },
+    {
+      "basename": "Signals TerminalEmulator KeepProgramAliveInTheBackgroud",
+      "path": "CommonlyUsedNote/Tool/LInux/Signals TerminalEmulator KeepProgramAliveInTheBackgroud.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "CommonlyUsedNote/Tool/LInux/Linux.md"
+    },
+    {
+      "basename": "Normal",
+      "path": "Template/Normal.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
