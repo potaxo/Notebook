@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Regex]]  
+Date: 2025-09-23 
+Time: 21:01
 ``` bash
 echo 'Disconnected from invalid user Disconnected from 84.211' | sed 's/.*Disconnected from //'
 ```

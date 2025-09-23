@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Vim]] 
+Date: 2025-09-23 
+Time: 21:00
 Of course\! You're asking how to view your history of copied (or "yanked") and deleted text within Vim. That's a fantastic question because mastering this is key to unlocking some serious Vim efficiency\! 🚀
 
 The short answer is to use the `:registers` command.

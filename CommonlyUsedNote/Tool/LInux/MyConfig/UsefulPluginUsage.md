@@ -105,3 +105,12 @@ Both `z` and `fzf` are about **speeding up navigation**. They save keystrokes an
 ---
 
 Do you want me to craft you a **ready-to-use `.zshrc` setup** where `z` and `fzf` are fully integrated with nice keybindings (like `Ctrl+T` for file search, `Ctrl+R` for history, `Alt+C` for directory jump)?
+
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[CLI]] [[Config]] 
+Date: 2025-09-23 
+Time: 20:48

@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Vscode]] [[Python]] [[Environment]] 
+Date: 2025-09-23 
+Time: 21:04
 ✅ Great debugging question — you’re clearly thinking like a software engineer. Let’s go through this carefully and solve it 100%.
 
 ---

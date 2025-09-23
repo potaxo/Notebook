@@ -53,3 +53,12 @@ Forward-thinking tip: This “status vs output” distinction is fundamental in 
 Want me to show you a tiny demo that clearly shows the three separate worlds: stdout, stderr, and `$?` all at once?
 
 ![MyShellWorkRecord](./img/dollarquestion.png)
+
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Shell]] [[Linux]] 
+Date: 2025-09-23 
+Time: 20:55

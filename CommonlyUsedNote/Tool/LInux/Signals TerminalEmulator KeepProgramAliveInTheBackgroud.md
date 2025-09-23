@@ -54,6 +54,6 @@ nohup your_command &
 ```
 
 ---
-Relevant Link: [[Linux]]
+Relevant Link: [[Linux]] [[System]]
 Date: 2025-09-22 
 Time: 23:37

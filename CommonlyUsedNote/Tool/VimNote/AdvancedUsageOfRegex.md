@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Vim]] [[Regex]] 
+Date: 2025-09-23 
+Time: 20:59
 Of course\! I'd be happy to help with this. You've asked for a smart and easy way to process multiple lines of data in Vim, where for each line, you want to keep only the third comma-separated value and delete everything else.
 
 You're absolutely right, using a macro is a great way to do this\! It's like teaching Vim a sequence of moves you can repeat. However, for this specific task, there's an even more powerful and efficient method using a single command: **substitution with regular expressions**.

@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Git]] [[SSH]] 
+Date: 2025-09-23 
+Time: 20:37
 You’re trying to push to GitHub using HTTPS with a username and password, but GitHub **no longer allows password authentication for Git operations**. They only support either:
 
 1. **SSH keys**

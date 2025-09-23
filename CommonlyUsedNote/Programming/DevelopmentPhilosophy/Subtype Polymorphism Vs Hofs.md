@@ -30,3 +30,11 @@ Comparator<Dog> nc = Dog.getNameComparator();
 - Some explanations:
   1. Many class defined by java may already be **comparable**, this way we implement the `Comparable` interface(just like String). 
   2. We can use `Comparator` as a container. This can also make whole program logical and resonable.
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Programming]] [[Java]]  
+Date: 2025-09-23 
+Time: 20:17

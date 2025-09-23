@@ -74,3 +74,11 @@ conda list | grep <package-name>
 ```
 pgrep sleep | xargs kill
 ```
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Linux]]
+Date: 2025-09-23 
+Time: 20:41

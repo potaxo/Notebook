@@ -3,5 +3,7 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "vimMode": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }

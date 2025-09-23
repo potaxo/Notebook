@@ -11,13 +11,242 @@
             "id": "bca746a855312a7e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoteForClass/MissingSemester/Profiling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Profiling"
+            }
+          },
+          {
+            "id": "37a9f96aac34b03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Programming/Programming.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programming"
+            }
+          },
+          {
+            "id": "f5806cac702ebf7d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FromCToPython"
+            }
+          },
+          {
+            "id": "954010324257e640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Programming/Language/Markdown.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Markdown"
+            }
+          },
+          {
+            "id": "de613af2e5248f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git Amend and Rollback"
+            }
+          },
+          {
+            "id": "b3c323970b3bd9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Tool/Git/Git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          },
+          {
+            "id": "efe62c56e4b3ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Tool/CLI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CLI"
+            }
+          },
+          {
+            "id": "380eb582a10286ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MyConfig"
+            }
+          },
+          {
+            "id": "18436b5fce2b14cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Tool/LInux/Linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "7ccef96bdc5fec39",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7af982381bab0018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Subtype Polymorphism Vs Hofs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Subtype Polymorphism Vs Hofs"
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -49,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +309,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 205.49999618530273
+    "width": 322.5
   },
   "right": {
     "id": "5d086ea6e3d966d6",
@@ -173,57 +401,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bca746a855312a7e",
+  "active": "7af982381bab0018",
   "lastOpenFiles": [
-    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
-    "Base.base",
+    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image/image.png",
+    "CommonlyUsedNote/Programming/Debug/Debug.md",
+    "CommonlyUsedNote/Programming/Debug/Debug.jpg",
+    "CommonlyUsedNote/Tool/Clash/Clash.md",
+    "Obsidian/Obsidian.md",
+    "README.md",
+    "Obsidian",
+    "NoteForClass/MissingSemester/Profiling.md",
+    "CommonlyUsedNote/Tool/Vscode/Vscode.md",
+    "CommonlyUsedNote/Tool/Vscode/VscodeInJava.jpg",
     "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md",
-    "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md",
+    "CommonlyUsedNote/Tool/VimNote/differenceInRegex.md",
+    "CommonlyUsedNote/Tool/VimNote/Regex.md",
     "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md",
+    "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md",
     "CommonlyUsedNote/Tool/VimNote/VimCommands.md",
+    "CommonlyUsedNote/Tool/VimNote/Vim.md",
+    "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md",
+    "CommonlyUsedNote/Tool/Regex.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/Config.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/UsefulPluginUsage.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/VimCursonInWSL.md",
+    "CommonlyUsedNote/Tool/LInux/Shell/Shell.md",
+    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
+    "CommonlyUsedNote/Tool/LInux/Shell/Shell Syntax.md",
+    "CommonlyUsedNote/Tool/LInux/WSL.md",
     "CommonlyUsedNote/Tool/LInux/Signals TerminalEmulator KeepProgramAliveInTheBackgroud.md",
-    "CommonlyUsedNote/Tool/LInux/Linux.md",
-    "Template/Normal.md",
-    "2025-09-22.md",
-    "CommonlyUsedNote/Tool/LInux/Basic.md",
+    "Obsidian/Base.base",
+    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
+    "NoteForClass/MissingSemester/attachments/Pasted image 20250923112815.png",
+    "NoteForClass/MissingSemester/attachments/Pasted image 20250923132947.png",
+    "NoteForClass/MissingSemester/attachments",
+    "Pasted image 20250923112610.png",
     "Template/Untitled.base",
-    "CommonlyUsedNote/Tool/LInux/ssh/ssh.md",
-    "CommonlyUsedNote/Tool/Git/RemoteCommands.md",
     "Template",
     "CommonlyUsedNote/Tool/Vscode/KeyboredShortCut.jpg",
-    "CommonlyUsedNote/Tool/Clash/Clash.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
-    "CommonlyUsedNote/Tool/Vscode/VscodeInJava.jpg",
-    "NoteForClass/MissingSemester/Untitled.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
-    "README.md",
     "CommonlyUsedNote/Tool/LInux/Untitled.base",
-    "Untitled 1.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
     "CommonlyUsedNote/Tool/Clash/img/ClashNotes.jpg",
-    "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md",
-    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Subtype Polymorphism Vs Hofs.md",
-    "CommonlyUsedNote/Programming/Debug/Debug.jpg",
-    "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
     "CommonlyUsedNote/Tool/Clash/img/Turn off smart-homed name resolution.png",
     "CommonlyUsedNote/Tool/Clash/img",
-    "Linux.md",
     "CommonlyUsedNote/Tool/LInux/ssh/img/remote.png",
     "CommonlyUsedNote/Tool/LInux/ssh/img/local.png",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/img/vc1.png",
-    "CommonlyUsedNote/Tool/LInux/Shell/img/dollarquestion.png",
-    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/readme.md",
-    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
-    "CommonlyUsedNote/Tool/VimNote/img/Screenshot_20250713_164801.jpg",
     "CommonlyUsedNote/Tool/LInux/ssh/img",
     "CommonlyUsedNote/Tool/LInux/Shell/img",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/img",
-    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled/Untitled.canvas"

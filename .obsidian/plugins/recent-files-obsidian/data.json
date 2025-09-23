@@ -1,28 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "dollar_questionMarkandSystemExpand",
-      "path": "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md"
+      "basename": "Subtype Polymorphism Vs Hofs",
+      "path": "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Subtype Polymorphism Vs Hofs.md"
     },
     {
-      "basename": "Base",
-      "path": "Base.base"
+      "basename": "image",
+      "path": "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image/image.png"
+    },
+    {
+      "basename": "Debug",
+      "path": "CommonlyUsedNote/Programming/Debug/Debug.md"
+    },
+    {
+      "basename": "Clash",
+      "path": "CommonlyUsedNote/Tool/Clash/Clash.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Profiling",
+      "path": "NoteForClass/MissingSemester/Profiling.md"
+    },
+    {
+      "basename": "Vscode",
+      "path": "CommonlyUsedNote/Tool/Vscode/Vscode.md"
+    },
+    {
+      "basename": "VscodeInJava",
+      "path": "CommonlyUsedNote/Tool/Vscode/VscodeInJava.jpg"
     },
     {
       "basename": "python_env_in_vscode",
       "path": "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md"
     },
     {
-      "basename": "regexGreedyFeature",
-      "path": "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md"
+      "basename": "differenceInRegex",
+      "path": "CommonlyUsedNote/Tool/VimNote/differenceInRegex.md"
+    },
+    {
+      "basename": "Regex",
+      "path": "CommonlyUsedNote/Tool/VimNote/Regex.md"
     },
     {
       "basename": "registerAndHistoryinVim",
       "path": "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md"
     },
     {
+      "basename": "regexGreedyFeature",
+      "path": "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md"
+    },
+    {
       "basename": "VimCommands",
       "path": "CommonlyUsedNote/Tool/VimNote/VimCommands.md"
+    },
+    {
+      "basename": "Vim",
+      "path": "CommonlyUsedNote/Tool/VimNote/Vim.md"
+    },
+    {
+      "basename": "AdvancedUsageOfRegex",
+      "path": "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md"
+    },
+    {
+      "basename": "Config",
+      "path": "CommonlyUsedNote/Tool/LInux/MyConfig/Config.md"
+    },
+    {
+      "basename": "MemoOperationGuide",
+      "path": "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md"
+    },
+    {
+      "basename": "MyConfig",
+      "path": "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md"
+    },
+    {
+      "basename": "UsefulPluginUsage",
+      "path": "CommonlyUsedNote/Tool/LInux/MyConfig/UsefulPluginUsage.md"
+    },
+    {
+      "basename": "VimCursonInWSL",
+      "path": "CommonlyUsedNote/Tool/LInux/MyConfig/VimCursonInWSL.md"
+    },
+    {
+      "basename": "Shell",
+      "path": "CommonlyUsedNote/Tool/LInux/Shell/Shell.md"
+    },
+    {
+      "basename": "dollar_questionMarkandSystemExpand",
+      "path": "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md"
+    },
+    {
+      "basename": "Shell Syntax",
+      "path": "CommonlyUsedNote/Tool/LInux/Shell/Shell Syntax.md"
+    },
+    {
+      "basename": "WSL",
+      "path": "CommonlyUsedNote/Tool/LInux/WSL.md"
     },
     {
       "basename": "Signals TerminalEmulator KeepProgramAliveInTheBackgroud",
@@ -33,8 +113,76 @@
       "path": "CommonlyUsedNote/Tool/LInux/Linux.md"
     },
     {
+      "basename": "Cp Grep Command",
+      "path": "CommonlyUsedNote/Tool/LInux/Cp Grep Command.md"
+    },
+    {
+      "basename": "Base",
+      "path": "Obsidian/Base.base"
+    },
+    {
+      "basename": "RemoteCommands",
+      "path": "CommonlyUsedNote/Tool/Git/RemoteCommands.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "CommonlyUsedNote/Tool/LInux/Conda/Conda.md"
+    },
+    {
+      "basename": "SSH",
+      "path": "CommonlyUsedNote/Tool/LInux/ssh/SSH.md"
+    },
+    {
+      "basename": "Git Amend and Rollback",
+      "path": "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md"
+    },
+    {
+      "basename": "CLI",
+      "path": "CommonlyUsedNote/Tool/CLI.md"
+    },
+    {
+      "basename": "Git",
+      "path": "CommonlyUsedNote/Tool/Git/Git.md"
+    },
+    {
+      "basename": "Python",
+      "path": "CommonlyUsedNote/Programming/Language/python/Python.md"
+    },
+    {
+      "basename": "Multi-line Print and Mathematical Operations",
+      "path": "CommonlyUsedNote/Programming/Language/python/Multi-line Print and Mathematical Operations.md"
+    },
+    {
+      "basename": "Java",
+      "path": "CommonlyUsedNote/Programming/Language/Java.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "CommonlyUsedNote/Programming/Language/Markdown.md"
+    },
+    {
+      "basename": "Programming Language",
+      "path": "CommonlyUsedNote/Programming/Language/Programming Language.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "CommonlyUsedNote/Programming/Programming.md"
+    },
+    {
+      "basename": "FormCToPython Readme",
+      "path": "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FormCToPython Readme.md"
+    },
+    {
+      "basename": "FromCToPython",
+      "path": "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf"
+    },
+    {
       "basename": "Normal",
       "path": "Template/Normal.md"
+    },
+    {
+      "basename": "Pasted image 20250923132947",
+      "path": "NoteForClass/MissingSemester/attachments/Pasted image 20250923132947.png"
     }
   ],
   "omittedPaths": [],

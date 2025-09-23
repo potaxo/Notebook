@@ -1,5 +1,3 @@
-# Python
-
 ## Some details in print
 ```python
 print("""
@@ -17,3 +15,11 @@ print(math.sqrt(16))  # Square root
 print(math.pi)  # Value of pi
 print(math.sin(math.radians(90)))  # Value of sin(90)
 ```
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Python]]
+Date: 2025-09-23 
+Time: 20:23

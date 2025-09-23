@@ -5,3 +5,11 @@ First, keystroke `ctrl+,` to open settings.
 ![open settings](./img/vc1.png)
 
 Then, appearance -> cursor.
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[WSL]] [[Config]] [[Vim]] 
+Date: 2025-09-23 
+Time: 20:48

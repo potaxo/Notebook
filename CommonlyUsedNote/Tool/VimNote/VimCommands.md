@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Vim]] 
+Date: 2025-09-23 
+Time: 21:00
 # UsefulVimCommands
 
 ## The difference between :q! and :!q :

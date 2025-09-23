@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Config]]  [[CLI]] 
+Date: 2025-09-23 
+Time: 20:47
 # install the component first and overwrite!!!
 
 ---

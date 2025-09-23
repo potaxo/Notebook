@@ -1,2 +1,1 @@
-# CommonlyUsedNote
-This is a note collection which collected some useful commands in linux, vim...
+This notebook is organized via Obisidian, mainly computer-related notes.

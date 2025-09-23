@@ -1,3 +1,11 @@
+##### `Tldr: 
+---
+
+
+---
+Relevant Link: [[Regex]] 
+Date: 2025-09-23 
+Time: 21:03
 Good evening! That is fantastic detective work on your part. 🕵️‍♂️
 
 You've just uncovered one of the most subtle but important differences between various Vim environments: the concept of **"Magic"** in regular expressions.
