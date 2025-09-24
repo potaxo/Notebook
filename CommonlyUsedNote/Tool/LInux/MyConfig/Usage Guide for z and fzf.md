@@ -1,7 +1,3 @@
-You’re asking: how to actually **use `z`** (directory jumper) and **`fzf`** (fuzzy finder) after installing them in zsh. Let’s break it down in plain moves.
-
----
-
 ## 1. Using **z**
 
 `z` is like a teleport spell for directories. Instead of typing a long `cd ~/projects/super/long/path`, you just use a remembered keyword.
@@ -101,10 +97,6 @@ git checkout $(git branch | fzf)
 ### Forward-thinking tip
 
 Both `z` and `fzf` are about **speeding up navigation**. They save keystrokes and mental load. Once you’re comfortable, you can even wire them together—for example, `cd $(z -l | fzf)` to pick a remembered directory interactively.
-
----
-
-Do you want me to craft you a **ready-to-use `.zshrc` setup** where `z` and `fzf` are fully integrated with nice keybindings (like `Ctrl+T` for file search, `Ctrl+R` for history, `Alt+C` for directory jump)?
 
 ##### `Tldr: 
 ---

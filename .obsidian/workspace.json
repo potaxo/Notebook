@@ -8,91 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bca746a855312a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoteForClass/MissingSemester/Profiling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Profiling"
-            }
-          },
-          {
-            "id": "37a9f96aac34b03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Programming/Programming.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programming"
-            }
-          },
-          {
-            "id": "f5806cac702ebf7d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FromCToPython"
-            }
-          },
-          {
-            "id": "954010324257e640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Programming/Language/Markdown.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Markdown"
-            }
-          },
-          {
-            "id": "de613af2e5248f93",
+            "id": "7af982381bab0018",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,12 +32,12 @@
             }
           },
           {
-            "id": "b3c323970b3bd9d8",
+            "id": "a24a1d012bbcb0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CommonlyUsedNote/Tool/Git/Git.md",
+                "file": "CommonlyUsedNote/Tool/LInux/MyConfig/Usage Guide for z and fzf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,117 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "efe62c56e4b3ea0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Tool/CLI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CLI"
-            }
-          },
-          {
-            "id": "380eb582a10286ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MyConfig"
-            }
-          },
-          {
-            "id": "18436b5fce2b14cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Tool/LInux/Linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "7ccef96bdc5fec39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7af982381bab0018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Subtype Polymorphism Vs Hofs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Subtype Polymorphism Vs Hofs"
+              "title": "Usage Guide for z and fzf"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 272.5
   },
   "right": {
     "id": "5d086ea6e3d966d6",
@@ -329,16 +139,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CommonlyUsedNote/Tool/LInux/MyConfig/Usage Guide for z and fzf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Usage Guide for z and fzf"
             }
           },
           {
@@ -404,39 +215,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7af982381bab0018",
+  "active": "a24a1d012bbcb0d4",
   "lastOpenFiles": [
-    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image/image.png",
-    "CommonlyUsedNote/Programming/Debug/Debug.md",
-    "CommonlyUsedNote/Programming/Debug/Debug.jpg",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/Usage Guide for z and fzf.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/Config.md",
+    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
+    "CommonlyUsedNote/Tool/LInux/Conda/Conda.md",
+    "CommonlyUsedNote/Tool/Git/RemoteCommands.md",
+    "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
+    "CommonlyUsedNote/Tool/Git/Git.md",
+    "CommonlyUsedNote/Tool/Git/Comparison, git stash vs git commit --amend.md",
+    "CommonlyUsedNote/Tool/LInux/Shell/Shell Syntax.md",
+    "CommonlyUsedNote/Tool/LInux/Shell/Shell.md",
+    "CommonlyUsedNote/Tool/LInux/ssh/SSH.md",
+    "CommonlyUsedNote/Tool/LInux/cp.md",
+    "CommonlyUsedNote/Programming/Language/Markdown.md",
+    "CommonlyUsedNote/Tool/LInux/Linux.md",
+    "CommonlyUsedNote/Tool/CLI.md",
+    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
+    "CommonlyUsedNote/Programming/Programming.md",
+    "NoteForClass/MissingSemester/Profiling.md",
     "CommonlyUsedNote/Tool/Clash/Clash.md",
+    "CommonlyUsedNote/Programming/Language/Programming Language.md",
+    "CommonlyUsedNote/Programming/Debug.md",
+    "CommonlyUsedNote/Programming/Language/Java.md",
+    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image/image.png",
+    "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Subtype Polymorphism.md",
+    "CommonlyUsedNote/Programming/Debug/Debug.jpg",
     "Obsidian/Obsidian.md",
     "README.md",
     "Obsidian",
-    "NoteForClass/MissingSemester/Profiling.md",
     "CommonlyUsedNote/Tool/Vscode/Vscode.md",
     "CommonlyUsedNote/Tool/Vscode/VscodeInJava.jpg",
-    "CommonlyUsedNote/Tool/Vscode/python_env_in_vscode.md",
-    "CommonlyUsedNote/Tool/VimNote/differenceInRegex.md",
-    "CommonlyUsedNote/Tool/VimNote/Regex.md",
-    "CommonlyUsedNote/Tool/VimNote/registerAndHistoryinVim.md",
-    "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md",
-    "CommonlyUsedNote/Tool/VimNote/VimCommands.md",
-    "CommonlyUsedNote/Tool/VimNote/Vim.md",
-    "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md",
-    "CommonlyUsedNote/Tool/Regex.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/Config.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/UsefulPluginUsage.md",
-    "CommonlyUsedNote/Tool/LInux/MyConfig/VimCursonInWSL.md",
-    "CommonlyUsedNote/Tool/LInux/Shell/Shell.md",
-    "CommonlyUsedNote/Tool/LInux/Shell/dollar_questionMarkandSystemExpand.md",
-    "CommonlyUsedNote/Tool/LInux/Shell/Shell Syntax.md",
-    "CommonlyUsedNote/Tool/LInux/WSL.md",
-    "CommonlyUsedNote/Tool/LInux/Signals TerminalEmulator KeepProgramAliveInTheBackgroud.md",
     "Obsidian/Base.base",
-    "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
     "NoteForClass/MissingSemester/attachments/Pasted image 20250923112815.png",
     "NoteForClass/MissingSemester/attachments/Pasted image 20250923132947.png",
     "NoteForClass/MissingSemester/attachments",
@@ -449,7 +261,6 @@
     "CommonlyUsedNote/Tool/Clash/img/Turn off smart-homed name resolution.png",
     "CommonlyUsedNote/Tool/Clash/img",
     "CommonlyUsedNote/Tool/LInux/ssh/img/remote.png",
-    "CommonlyUsedNote/Tool/LInux/ssh/img/local.png",
     "CommonlyUsedNote/Tool/LInux/ssh/img",
     "CommonlyUsedNote/Tool/LInux/Shell/img",
     "Untitled.canvas",

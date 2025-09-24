@@ -1,4 +1,4 @@
-##### `Tldr: 
+##### `Tldr: Git is a wonderful code collaboration tool.
 ---
 
 

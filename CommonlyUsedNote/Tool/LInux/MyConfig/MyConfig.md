@@ -1,32 +1,6 @@
-##### `Tldr: 
+##### `Tldr: Zsh -> plugins -> theme -> set vim default editor
 ---
-
-
----
-Relevant Link: [[Config]]  [[CLI]] 
-Date: 2025-09-23 
-Time: 20:47
-# install the component first and overwrite!!!
-
----
-
-### 1. Uninstall **fish**
-
-The package name is usually just `fish`. Run:
-
-```bash
-sudo apt remove --purge fish
-```
-
-If you want to remove leftover config files too (they live in `~/.config/fish`):
-
-```bash
-rm -rf ~/.config/fish
-```
-
----
-
-### 2. Install **zsh**
+### 1. Install **zsh**
 
 On Ubuntu/Debian:
 
@@ -43,7 +17,7 @@ zsh --version
 
 ---
 
-### 3. Make zsh your default shell
+### 2. Make zsh your default shell
 
 Run:
 
@@ -55,7 +29,7 @@ Then **log out and back in** (or restart terminal). Now zsh should greet you.
 
 ---
 
-### 4. Install a plugin manager
+### 3. Install a plugin manager
 
 You’ll want something to handle plugins. The most popular is **Oh My Zsh**:
 
@@ -67,7 +41,7 @@ This will install zsh config at `~/.zshrc`.
 
 ---
 
-### 5. Add useful plugins
+### 4. Add useful plugins(Most of it already write in .zshrc)
 
 Inside your `~/.zshrc`, there’s a line like:
 
@@ -107,7 +81,7 @@ source ~/.zshrc
 
 ---
 
-### 6. Optional: pick a theme
+### 5. Optional: pick a theme
 
 Oh My Zsh comes with themes. A famous one is **agnoster**, but many prefer **powerlevel10k**:
 
@@ -131,8 +105,6 @@ Zsh is powerful, but don’t overload it with plugins—it slows startup. Keep 3
 
 ---
 
-Do you want me to prepare a **minimal, optimized zsh plugin setup** file for you (`.zshrc`) so you can just drop it in?
-
 ### Make vim as the default editor
 
 You’re asking two things:
@@ -142,7 +114,7 @@ You’re asking two things:
 
 ---
 
-### 1. Set vim as the default editor system-wide
+### 1. Set [[Vim]] as the default editor system-wide
 
 There are a few layers of “who decides what editor to use.” You’ll want to cover them all:
 
@@ -168,48 +140,8 @@ There are a few layers of “who decides what editor to use.” You’ll want to
 
   Pick `vim.basic` (or whichever vim you like). This ensures all programs that respect the system editor use vim.
 
----
-
-### 2. Why Git uses nano
-
-Git looks for an editor in this order:
-
-1. `git config core.editor`
-2. `$GIT_EDITOR` environment variable
-3. `$VISUAL` environment variable
-4. `$EDITOR` environment variable
-5. Falls back to system default (`/etc/alternatives/editor`, often nano on Ubuntu/WSL).
-
-That’s why you still get nano—it’s the fallback.
-
-To fix it just for Git:
-
-```bash
-git config --global core.editor "vim"
-```
 
 ---
-
-### Summary
-
-* Set env vars in shell → `EDITOR` and `VISUAL`
-* Configure system editor → `update-alternatives`
-* Configure Git editor → `git config --global core.editor "vim"`
-
-That triple-shot guarantees you’ll never be surprised by nano again.
-
----
-
-Forward-thinking tip: sometimes you’ll want a GUI editor for Git (like VS Code) but vim for everything else. In that case, you can set:
-
-```bash
-git config --global core.editor "code --wait"
-```
-
-so you get both worlds depending on context.
-
-Do you want me to show you how to test which editor Git is actually picking up right now?
-
-
-
-
+Relevant Link: [[Config]]  [[CLI]] 
+Date: 2025-09-23 
+Time: 20:47

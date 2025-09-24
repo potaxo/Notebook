@@ -1,4 +1,6 @@
-# Subtype Polymorphism vs Higher-Order Functions
+##### `Tldr: Use a unified interface to establish Polymorphism, and implement independent methods managing by interface.
+---
+### Subtype Polymorphism 
 *Most of the notes are come from cs61b sp21.*
 ![Inheritance Schematic Diagram](./Image/image.png)
 
@@ -30,9 +32,6 @@ Comparator<Dog> nc = Dog.getNameComparator();
 - Some explanations:
   1. Many class defined by java may already be **comparable**, this way we implement the `Comparable` interface(just like String). 
   2. We can use `Comparator` as a container. This can also make whole program logical and resonable.
-##### `Tldr: 
----
-
 
 ---
 Relevant Link: [[Programming]] [[Java]]  
