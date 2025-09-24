@@ -78,9 +78,43 @@
               "icon": "lucide-file",
               "title": "Obsidian"
             }
+          },
+          {
+            "id": "3fae09345b4bd358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CommonlyUsedNote/Tool/LInux/ssh/ssh.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ssh"
+            }
+          },
+          {
+            "id": "2493e4f3299b1fb8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,16 +274,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c1853fbfb49e0a2",
+  "active": "3fae09345b4bd358",
   "lastOpenFiles": [
+    "CommonlyUsedNote/Tool/LInux/ssh/Set ssh-agent when start wsl.md",
+    "CommonlyUsedNote/Tool/LInux/ssh/ssh.md",
+    "NoteForClass/MissingSemester/Profiling.md",
+    "Obsidian/Obsidian.md",
+    "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
     "CommonlyUsedNote/Tool/VimNote/regexGreedyFeature.md",
     "CommonlyUsedNote/Tool/VimNote/regex.md",
     "CommonlyUsedNote/Tool/VimNote/differenceInRegex.md",
     "CommonlyUsedNote/Tool/VimNote/AdvancedUsageOfRegex.md",
-    "Obsidian/Obsidian.md",
     "Obsidian/Drawing.excalidraw.md",
     "NoteForClass/MissingSemester/Make.md",
-    "NoteForClass/MissingSemester/Profiling.md",
     "NoteForClass/MissingSemester/attachments/Pasted image 20250924215257.png",
     "NoteForClass/MissingSemester/attachments/Pasted image 20250924212009.png",
     "NoteForClass/MissingSemester/attachments/Pasted image 20250924205435.png",
@@ -260,7 +297,6 @@
     "Excalidraw/Drawing 2025-09-24 19.23.20.excalidraw.md",
     "Excalidraw",
     "CommonlyUsedNote/Tool/LInux/MyConfig/Usage Guide for z and fzf.md",
-    "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/MyConfig.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/Config.md",
     "CommonlyUsedNote/Tool/LInux/MyConfig/MemoOperationGuide.md",
@@ -273,8 +309,6 @@
     "CommonlyUsedNote/Tool/LInux/ssh/SSH.md",
     "CommonlyUsedNote/Tool/LInux/cp.md",
     "CommonlyUsedNote/Programming/Language/Markdown.md",
-    "CommonlyUsedNote/Tool/LInux/Linux.md",
-    "CommonlyUsedNote/Tool/CLI.md",
     "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FromCToPython.pdf",
     "CommonlyUsedNote/Programming/DevelopmentPhilosophy/Image/image.png",
     "CommonlyUsedNote/Programming/Debug/Debug.jpg",

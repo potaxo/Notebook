@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ssh",
+      "path": "CommonlyUsedNote/Tool/LInux/ssh/ssh.md"
+    },
+    {
+      "basename": "Profiling",
+      "path": "NoteForClass/MissingSemester/Profiling.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "Git Amend and Rollback",
+      "path": "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md"
     },
     {
       "basename": "regexGreedyFeature",
@@ -29,20 +41,12 @@
       "path": "NoteForClass/MissingSemester/Make.md"
     },
     {
-      "basename": "Profiling",
-      "path": "NoteForClass/MissingSemester/Profiling.md"
-    },
-    {
       "basename": "Normal",
       "path": "Template/Normal.md"
     },
     {
       "basename": "Usage Guide for z and fzf",
       "path": "CommonlyUsedNote/Tool/LInux/MyConfig/Usage Guide for z and fzf.md"
-    },
-    {
-      "basename": "Git Amend and Rollback",
-      "path": "CommonlyUsedNote/Tool/Git/Git Amend and Rollback.md"
     },
     {
       "basename": "MyConfig",
@@ -191,10 +195,6 @@
     {
       "basename": "FormCToPython Readme",
       "path": "CommonlyUsedNote/Programming/Language/python/FromCToPython_ByMioYiSama/FormCToPython Readme.md"
-    },
-    {
-      "basename": "Pasted image 20250923132947",
-      "path": "NoteForClass/MissingSemester/attachments/Pasted image 20250923132947.png"
     }
   ],
   "omittedPaths": [],
